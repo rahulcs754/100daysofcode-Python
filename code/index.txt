@@ -4,3 +4,6 @@ File name  -  Description
 3.py           # Delete a Linked List node at a given position
 4.py           # Find Length of a Linked List (Recursive)
 5.py           # Find Length of a Linked List (Iterative)
+6.py           # Swap nodes in a linked list without swapping data
+7.py           # Reverse a linked list
+8.py           # Merge two sorted linked lists
