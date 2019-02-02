@@ -7,3 +7,5 @@ File name  -  Description
 6.py           # Swap nodes in a linked list without swapping data
 7.py           # Reverse a linked list
 8.py           # Merge two sorted linked lists
+9.py           # Reverse a Linked List in groups of given size
+10.py          # Detect and Remove Loop in a Linked List
