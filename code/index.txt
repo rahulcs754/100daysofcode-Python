@@ -9,3 +9,5 @@ File name  -  Description
 8.py           # Merge two sorted linked lists
 9.py           # Reverse a Linked List in groups of given size
 10.py          # Detect and Remove Loop in a Linked List
+11.py          # Create and Insert doubly Linked List
+12.py          # Circular Linked List (Traversal)
