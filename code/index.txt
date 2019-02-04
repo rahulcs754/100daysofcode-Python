@@ -11,3 +11,5 @@ File name  -  Description
 10.py          # Detect and Remove Loop in a Linked List
 11.py          # Create and Insert doubly Linked List
 12.py          # Circular Linked List (Traversal)
+13.py          # Python program for implementation of stack 
+14.py          # Python program to convert infix expression to postfix 
