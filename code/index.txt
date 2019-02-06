@@ -15,3 +15,5 @@ File name  -  Description
 14.py          # Python program to convert infix expression to postfix 
 15.py          # Reverse a string using stack
 16.py          # Implement two stacks in an array
+17.py          # Delete a node in a Doubly Linked List
+18.py          # Reverse a Doubly Linked List
