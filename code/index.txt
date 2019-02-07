@@ -17,3 +17,5 @@ File name  -  Description
 16.py          # Implement two stacks in an array
 17.py          # Delete a node in a Doubly Linked List
 18.py          # Reverse a Doubly Linked List
+19.py          # Python program to print even numbers in a list
+20.py          # Python program to print all even numbers in a range
