@@ -19,3 +19,5 @@ File name  -  Description
 18.py          # Reverse a Doubly Linked List
 19.py          # Python program to print even numbers in a list
 20.py          # Python program to print all even numbers in a range
+21.py          # Python Program for Insertion Sort
+22.py          # Python Program for QuickSort
