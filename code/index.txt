@@ -21,3 +21,6 @@ File name  -  Description
 20.py          # Python program to print all even numbers in a range
 21.py          # Python Program for Insertion Sort
 22.py          # Python Program for QuickSort
+23.py          # Queue (Introduction and Array Implementation)
+24.py          # Queue (Linked List Implementation)
+
