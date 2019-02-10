@@ -23,4 +23,6 @@ File name  -  Description
 22.py          # Python Program for QuickSort
 23.py          # Queue (Introduction and Array Implementation)
 24.py          # Queue (Linked List Implementation)
+25.py          # Create a Binary Tree 
+26.py          # Binary Search Tree Insertion and Deletion
 
