@@ -25,4 +25,5 @@ File name  -  Description
 24.py          # Queue (Linked List Implementation)
 25.py          # Create a Binary Tree 
 26.py          # Binary Search Tree Insertion and Deletion
-
+27.py          # Program to print duplicates from a list of integers
+28.py          # program to check if a string is palindrome or not
