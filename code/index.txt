@@ -27,3 +27,5 @@ File name  -  Description
 26.py          # Binary Search Tree Insertion and Deletion
 27.py          # Program to print duplicates from a list of integers
 28.py          # program to check if a string is palindrome or not
+29.py          # String slicing in Python to rotate a string 
+30.py          # Python Counter| Find all duplicate characters in string
