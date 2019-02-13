@@ -29,3 +29,5 @@ File name  -  Description
 28.py          # program to check if a string is palindrome or not
 29.py          # String slicing in Python to rotate a string 
 30.py          # Python Counter| Find all duplicate characters in string
+31.py          # Python | Writing to an excel file using openpyxl module
+32.py          # Python | Reading an excel file using openpyxl module
