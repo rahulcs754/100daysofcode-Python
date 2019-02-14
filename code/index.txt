@@ -31,3 +31,5 @@ File name  -  Description
 30.py          # Python Counter| Find all duplicate characters in string
 31.py          # Python | Writing to an excel file using openpyxl module
 32.py          # Python | Reading an excel file using openpyxl module
+33.py          # Reverse a stack using recursion
+34.py          # Python | Count the Number of matching characters in a pair of string
