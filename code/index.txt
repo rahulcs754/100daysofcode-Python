@@ -33,3 +33,5 @@ File name  -  Description
 32.py          # Python | Reading an excel file using openpyxl module
 33.py          # Reverse a stack using recursion
 34.py          # Python | Count the Number of matching characters in a pair of string
+35.py          # Python program to find smallest number in a list
+36.py          # Python program to find largest number in a list
