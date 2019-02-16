@@ -35,3 +35,5 @@ File name  -  Description
 34.py          # Python | Count the Number of matching characters in a pair of string
 35.py          # Python program to find smallest number in a list
 36.py          # Python program to find largest number in a list
+38.py          # Python Input Methods for Competitive Programming
+39.py          # Taking multiple inputs from user in Python
