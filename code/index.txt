@@ -37,3 +37,5 @@ File name  -  Description
 36.py          # Python program to find largest number in a list
 38.py          # Python Input Methods for Competitive Programming
 39.py          # Taking multiple inputs from user in Python
+40.py          # Python List
+41.py          # Python Tuples
