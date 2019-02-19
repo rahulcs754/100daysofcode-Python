@@ -39,3 +39,7 @@ File name  -  Description
 39.py          # Taking multiple inputs from user in Python
 40.py          # Python List
 41.py          # Python Tuples
+42.py          # Python | Output Formatting
+43.py          # Python String
+44.py          # Python sets
+45.py          # python dictionary
