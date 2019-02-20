@@ -43,3 +43,5 @@ File name  -  Description
 43.py          # Python String
 44.py          # Python sets
 45.py          # python dictionary
+46.py          # Array in Python 
+47.py          # Global and Local Variables in Python
