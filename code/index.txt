@@ -45,3 +45,5 @@ File name  -  Description
 45.py          # python dictionary
 46.py          # Array in Python 
 47.py          # Global and Local Variables in Python
+48.py          # Type Conversion in Python
+49.py          # Private Variables in Python
