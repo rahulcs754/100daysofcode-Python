@@ -49,3 +49,5 @@ File name  -  Description
 49.py          # Private Variables in Python
 50.py          #  Array in Python 
 51:py          # __name__ (A Special variable) in Python
+52.py          # Basic Operators in Python 
+53.py          # Division Operators in Python
