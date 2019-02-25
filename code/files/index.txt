@@ -51,3 +51,5 @@ File name  -  Description
 51:py          # __name__ (A Special variable) in Python
 52.py          # Basic Operators in Python 
 53.py          # Division Operators in Python
+54.py          # Ternary Operator in Python
+55.py          # Operator Overloading in Python
