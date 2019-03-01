@@ -57,3 +57,5 @@ File name  -  Description
 57.py          # Operator Functions in Python chapter 2
 58.py          # loops in python
 59.py          # Python Membership and Identity Operators | in, not in, is, is not
+60.py          # range() vs xrange() in Python
+61.py          # Programs for printing pyramid patterns in Python
