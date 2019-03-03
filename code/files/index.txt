@@ -61,3 +61,5 @@ File name  -  Description
 61.py          # Programs for printing pyramid patterns in Python
 62.py          # Chaining comparison operators in Python
 63.py          # Using else conditional statement with for loop in python
+64.py          # Switch Case in Python (Replacement)
+65.py          # Coroutine in Python
