@@ -59,3 +59,5 @@ File name  -  Description
 59.py          # Python Membership and Identity Operators | in, not in, is, is not
 60.py          # range() vs xrange() in Python
 61.py          # Programs for printing pyramid patterns in Python
+62.py          # Chaining comparison operators in Python
+63.py          # Using else conditional statement with for loop in python
