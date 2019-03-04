@@ -65,3 +65,5 @@ File name  -  Description
 65.py          # Coroutine in Python
 66.py          # Using Iterations in Python Effectively
 67.py          # Iterators in Python
+68.py          # Iterator Functions in Python | Set 1
+69.py          # Iterator Functions in Python | Set 2
