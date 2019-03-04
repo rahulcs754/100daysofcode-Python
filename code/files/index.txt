@@ -63,3 +63,5 @@ File name  -  Description
 63.py          # Using else conditional statement with for loop in python
 64.py          # Switch Case in Python (Replacement)
 65.py          # Coroutine in Python
+66.py          # Using Iterations in Python Effectively
+67.py          # Iterators in Python
