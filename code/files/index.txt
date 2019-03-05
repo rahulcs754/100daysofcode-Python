@@ -67,3 +67,5 @@ File name  -  Description
 67.py          # Iterators in Python
 68.py          # Iterator Functions in Python | Set 1
 69.py          # Iterator Functions in Python | Set 2
+70.py          # Python __iter__() and __next__() | Converting an object into an iterator
+71.py          # Python | Difference between iterable and iterator
