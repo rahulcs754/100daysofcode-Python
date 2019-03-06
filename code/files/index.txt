@@ -69,3 +69,5 @@ File name  -  Description
 69.py          # Iterator Functions in Python | Set 2
 70.py          # Python __iter__() and __next__() | Converting an object into an iterator
 71.py          # Python | Difference between iterable and iterator
+72.py          # Generators in Python
+73.py          # Python | Generator Expressions
