@@ -71,3 +71,5 @@ File name  -  Description
 71.py          # Python | Difference between iterable and iterator
 72.py          # Generators in Python
 73.py          # Python | Generator Expressions
+74.py          # When to use yield instead of return in Python?
+75.py          # Returning Multiple Values in Python
